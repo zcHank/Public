@@ -20,5 +20,11 @@
 		<key>open_base_url</key>
 		<string>1</string>
 	</dict>
+	<dict>
+		<key>version</key>
+		<string>1.0.3</string>	
+		<key>open_base_url</key>
+		<string>0</string>
+	</dict>
 </array>
 </plist>
